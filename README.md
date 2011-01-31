@@ -1,8 +1,8 @@
 ## What?
 
 While most native C RubyGems try very hard **not** to cause failures, as a proud
-member of the Oops family, `oops-null` segfaults your Ruby interpreter in a number
-of different ways due to common Win32API coding mistakes.
+member of the Oops family, `oops-win32api` segfaults your Ruby interpreter in a
+number of different ways due to common Win32API coding mistakes.
 
 Diagnostic tool authors and novice debuggers rejoice!
 
